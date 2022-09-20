@@ -3,6 +3,6 @@
 >>Xia
 >>sean
 
-`結束了`
+``結束了``
 
 ![nkust](nkust.png "高科大")
