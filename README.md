@@ -22,8 +22,8 @@ Strikethrough uses two tildes. ~~Serateh-this.~~
 
 ---
 
-[ ] todo list
-[ ] 2nd things
+- [ ] todo list  
+- [ ] 2nd things  
 
 ---
 
