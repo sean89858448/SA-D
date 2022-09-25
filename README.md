@@ -1,5 +1,12 @@
 # SA-D 資管三乙 夏辰旭
 
+
+![nkust](nkust.png "高科大")
+
+
+#實作題  
+---
+
 Emphasis, aka italics, with asterisks or underscores.  
 Strong emphasis, aka bold, with **asterisks** or **underscores.**  
 Combined emphasis with **asterisks and underscores.**  
@@ -58,5 +65,3 @@ raw Markdown line up prettily. You can also use inline Markdown.
 |    1    |    2    |    3    |
 
 
-
-![nkust](nkust.png "高科大")
