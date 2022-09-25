@@ -26,10 +26,10 @@ Strikethrough uses two tildes. ~~Serateh-this.~~
 ---
 
 python code  
-{o/o high1ight o/o} python  
+```python=  
 s = "Python syntax highlighting"  
 print s  
-{o/o endhigh1ight o/o}  
+```  
 
 ---
 
