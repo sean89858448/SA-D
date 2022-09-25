@@ -26,14 +26,14 @@ Strikethrough uses two tildes. ~~Serateh-this.~~
 ---
 
 python code  
-```python=1
+```python=1  
 s = "Python syntax highlighting"  
 print s  
 ```
 ---
 
 javascript code  
-```javascript=
+```javascript=  
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
