@@ -20,4 +20,18 @@ Strikethrough uses two tildes. ~~Serateh-this.~~
   ...* note 2  
   ***  note 3  
 
+---
+
+[ ] todo list
+[ ] 2nd things
+
+---
+
+---
+
+---
+
+
+
+
 ![nkust](nkust.png "高科大")
