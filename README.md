@@ -1,12 +1,11 @@
 # SA-D 資管三乙 夏辰旭
 
 
-![nkust](nkust.png "高科大")
-
-
-#實作題
----  
+![nkust](nkust.png "高科大")  
   
+  
+  
+# 實作題  
   
   
 Emphasis, aka italics, with asterisks or underscores.  
